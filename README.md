@@ -1,8 +1,8 @@
 ### Hi there 👋
 ##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-[Requirements](#requirements) 
+[Installation](#Installation)  
+[Requirements](#Requirements)  
+[About](#About) 
 
 <a name="headers"/>
 ## Headers
