@@ -37,7 +37,7 @@ https://github.com/cardinity/cardinity-magento/releases
 | XXXX.XX.XX    | 3dsv2 Secured          |
 | XXXX.XX.XX    | Something beutiful     |
 
-\     
+\     
 
 ## About us
 Cardinity is registered on VISA Europe and MasterCard International associations to provide e-commerce credit card processing services for online merchants. 
