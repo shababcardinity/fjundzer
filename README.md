@@ -36,7 +36,12 @@ https://github.com/cardinity/cardinity-magento/releases
 | XXXX.XX.XX    | Added External Payment |
 | XXXX.XX.XX    | 3dsv2 Secured          |
 | XXXX.XX.XX    | Something beutiful     |
-
+## FAQ
+<details open>
+<summary>What do I do if integration fails?</summary>
+<br>
+Try again!
+</details>
 <br>
 
 ## About us
