@@ -1,4 +1,6 @@
-### Hi there 👋
+# Cardinity Payment Gateway for X
+This module will enable Cardinity payments in your X e-shop. If you are using older version of X refer to X branch.
+
 ## Table of Contents  
 [Installation](#Installation)  
 [Requirements](#Requirements)  
