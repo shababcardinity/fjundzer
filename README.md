@@ -1,5 +1,5 @@
-# Cardinity Payment Gateway for X
-This module will enable Cardinity payments in your X e-shop. If you are using older version of X refer to X branch.
+# Cardinity Payment Gateway for PrestaShop
+This module will enable Cardinity payments in your Presta e-shop. If you are using older version of X refer to X branch.
 
 ### Table of Contents  
  [- How to install?](#--how-to-install)   
@@ -15,23 +15,29 @@ This module will enable Cardinity payments in your X e-shop. If you are using ol
  [Keywords](#keywords)   
 <a name="headers"/>    
 ## - How to install?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pulvinar felis vitae nisl viverra ultrices. Praesent elit nisi, tristique at sem sit amet, ullamcorper malesuada sem. Curabitur iaculis lorem dolor, id blandit dui suscipit nec. Suspendisse fermentum in nisl eget fermentum. Suspendisse aliquam ligula ac nisi rutrum, et ultrices nisl tristique. Phasellus id facilisis nunc, in suscipit libero. Cras efficitur nisi non dolor aliquet hendrerit. Mauris interdum velit nec justo mattis fermentum. In sed odio at enim sodales rutrum. Aliquam at ligula dignissim, bibendum risus nec, scelerisque metus. Ut blandit pretium turpis a accumsan.
-
-Suspendisse volutpat, tellus ultricies volutpat pharetra, neque eros congue felis, in ultrices ipsum lorem sed ligula. Integer vulputate purus id scelerisque imperdiet. Ut nec nunc sed dui blandit congue. Morbi nec arcu urna. Proin scelerisque magna at lacus congue pretium. Fusce id neque ac risus suscipit venenatis vel ut lorem. Nulla quam nulla, auctor eu molestie et, ullamcorper in odio. Proin dapibus laoreet consectetur. Vestibulum metus massa, ultricies quis placerat porttitor, blandit sed ligula. Vestibulum porttitor vehicula sem, non hendrerit tortor tincidunt eget. Curabitur tellus tortor, viverra quis magna non, sollicitudin accumsan purus. Aliquam volutpat, turpis id bibendum lacinia, tortor nibh hendrerit diam, et porta neque ligula eleifend ligula. Phasellus at metus quis mauris elementum convallis in ornare orci. Integer porttitor suscipit sem sit amet sagittis.
+#### Installation
+1. Set 777 or 0777 permissions on folder “/modules/”. Don’t forget to change permissions back after installation.
+2. Login to your PrestaShop admin area and go to "Modules", then click on "Upload a module", choose the file (.zip), and upload it.
+#### Module Configuration
+To configure the module, on your PrestaShop admin area go to "Modules" and then to "Installed modules".
+Find Cardinity module and click on "Configure".
+There is only one section in module’s configuration page. You need to enter Consumer Key and Consumer Secret which you can find on your Cardinity account’s member’s area (navigate to Integration → API Settings).
 ### Requirements
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pulvinar felis vitae nisl viverra ultrices. Praesent elit nisi, tristique at sem sit amet, ullamcorper malesuada sem. Curabitur iaculis lorem dolor, id blandit dui suscipit nec. Suspendisse fermentum in nisl eget fermentum. Suspendisse aliquam ligula ac nisi rutrum, et ultrices nisl tristique. Phasellus id facilisis nunc, in suscipit libero. Cras efficitur nisi non dolor aliquet hendrerit. Mauris interdum velit nec justo mattis fermentum. In sed odio at enim sodales rutrum. Aliquam at ligula dignissim, bibendum risus nec, scelerisque metus. Ut blandit pretium turpis a accumsan.
 
 Suspendisse volutpat, tellus ultricies volutpat pharetra, neque eros congue felis, in ultrices ipsum lorem sed ligula. Integer vulputate purus id scelerisque imperdiet. Ut nec nunc sed dui blandit congue. Morbi nec arcu urna. Proin scelerisque magna at lacus congue pretium. Fusce id neque ac risus suscipit venenatis vel ut lorem. Nulla quam nulla, auctor eu molestie et, ullamcorper in odio. Proin dapibus laoreet consectetur. Vestibulum metus massa, ultricies quis placerat porttitor, blandit sed ligula. Vestibulum porttitor vehicula sem, non hendrerit tortor tincidunt eget. Curabitur tellus tortor, viverra quis magna non, sollicitudin accumsan purus. Aliquam volutpat, turpis id bibendum lacinia, tortor nibh hendrerit diam, et porta neque ligula eleifend ligula. Phasellus at metus quis mauris elementum convallis in ornare orci. Integer porttitor suscipit sem sit amet sagittis.
 ### Downloads
-Find files here: https://github.com/cardinity/cardinity-magento/releases
+For PrestaShop 1.7+ -> https://github.com/cardinity/cardinity-prestashop/releases/tag/v4.0.2
+For PrestaShop 1.4+ -> https://github.com/cardinity/cardinity-prestashop/releases/tag/v1.4.1
 ### Screenshots
-![GitHub Logo](https://cardinity.com/uploads/images/Gallery/Integration-images/Drupal-Commerce/screenshot-credentials.PNG)
+![Prestashop Credentials](https://cardinity.com/uploads/images/Gallery/Integration-images/Prestashop/screenshot-credentials.PNG)
+![PrestaShop upload module](https://cardinity.com/uploads/images/Gallery/Integration-images/Prestashop/screenshot-upload-module.PNG)
 ## - Changelog 
 | Date          | Changes                |
 | ------------- |------------------------|
-| XXXX.XX.XX    | Added External Payment |
+| XXXX.XX.XX    | 1st thing happened     |
 | XXXX.XX.XX    | 3dsv2 Secured          |
-| XXXX.XX.XX    | Something beutiful     |
+| XXXX.XX.XX    | Something beautiful    |
 ## - FAQ
 <details shown>
 <summary>What do I do if integration fails?</summary>
@@ -64,7 +70,7 @@ To start accepting credit and debit card payments on your e-commerce business, r
 ### Keywords
 payment gateway, credit card payment, online payment, credit card processing, online payment gateway, cardinity for X.   
 __________________________________________________________________    
- [▲ back to top](#Cardinity-Payment-Gateway-for-X)
+ [▲ back to top](#Cardinity-Payment-Gateway-for-PrestaShop)
 <!--
 **fjundzer/fjundzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
