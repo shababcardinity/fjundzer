@@ -52,7 +52,7 @@ Register directly at our wesbsite https://cardinity.com/sign-up.
 ### Keywords
 payment gateway, credit card payment, online payment, credit card processing, online payment gateway.   
     
- [▲ back to top](#Cardinity-Payment-Gateway-for-X)
+ [:▲ back to top:](#Cardinity-Payment-Gateway-for-X)
 <!--
 **fjundzer/fjundzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
