@@ -6,7 +6,7 @@ This module will enable Cardinity payments in your X e-shop. If you are using ol
  [2. How to install?](#2-how-to-install)  
      [2.1 Screenshots](#21-Screenshots)  
      [2.2 Downloads](#22-Downloads)   
- [4. Change log](#4-change-log)   
+ [3. Change log](#3-change-log)   
     
  [About us](#aboutus)   
     [• Sign up](#sign-up)    
@@ -30,7 +30,7 @@ Suspendisse volutpat, tellus ultricies volutpat pharetra, neque eros congue feli
 ![GitHub Logo](https://cardinity.com/uploads/images/Gallery/Integration-images/Drupal-Commerce/screenshot-credentials.PNG)
 ### 2.2 Downloads
 https://github.com/cardinity/cardinity-magento/releases
-## 4. Change log 
+## 3. Change log 
 | Date          | Changes       |
 | ------------- |---------------|
 | XXXX.XX.XX    | Added External Payment |
