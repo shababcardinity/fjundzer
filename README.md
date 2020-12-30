@@ -40,6 +40,8 @@ https://github.com/cardinity/cardinity-magento/releases
 <details shown>
 <summary>What do I do if integration fails?</summary>
      - Maybe, try again?
+</details>
+<details shown>
 <summary>What do I do if integration fails?</summary>
      - Maybe, try again?
 </details>
