@@ -29,7 +29,7 @@ Suspendisse volutpat, tellus ultricies volutpat pharetra, neque eros congue feli
 • Added External Payment
 • 3dsv2 Secured   
 _______________________________________________________________
-## About us
+### About us
 Cardinity is a safe and cost-effective online payment solution for e-commerce businesses selling various products or providing services.
 
 Cardinity is available for EU merchants of different types: from low to high risk, from businesses to sole proprietors, from retail products to digital goods.
@@ -46,7 +46,7 @@ Register directly at our wesbsite https://cardinity.com/sign-up.
 • A payment gateway and a free merchant account.
 • Ensured security with our enhanced protection measures.
 • Simple and transparent pricing model. Pay only per transaction and get all the features for free.
-## Keywords
+### Keywords
 payment gateway, credit card payment, online payment, credit card processing, online payment gateway.
 <!--
 **fjundzer/fjundzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
