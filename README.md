@@ -2,20 +2,20 @@
 This module will enable Cardinity payments in your X e-shop. If you are using older version of X refer to X branch.
 
 ### Table of Contents  
- [Requirements](#Requirements)  
- [How to install?](#how-to-install)  
+ [- Requirements](#Requirements)  
+ [- How to install?](#how-to-install)  
      [Downloads](#Downloads)   
      [Screenshots](#Screenshots)  
- [Change log](#change-log)  
- [FAQ](#faq)
+ [- Change log](#change-log)  
+ [- FAQ](#faq)
   
- [About us](#aboutus)   
+ [- About us](#aboutus)   
     [Our features](#our-features)         
     [Get started](#sign-up)   
  [Keywords](#keywords)   
 <a name="headers"/>   
  
-## Requirements
+## - Requirements
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pulvinar felis vitae nisl viverra ultrices. Praesent elit nisi, tristique at sem sit amet, ullamcorper malesuada sem. Curabitur iaculis lorem dolor, id blandit dui suscipit nec. Suspendisse fermentum in nisl eget fermentum. Suspendisse aliquam ligula ac nisi rutrum, et ultrices nisl tristique. Phasellus id facilisis nunc, in suscipit libero. Cras efficitur nisi non dolor aliquet hendrerit. Mauris interdum velit nec justo mattis fermentum. In sed odio at enim sodales rutrum. Aliquam at ligula dignissim, bibendum risus nec, scelerisque metus. Ut blandit pretium turpis a accumsan.
 
 Suspendisse volutpat, tellus ultricies volutpat pharetra, neque eros congue felis, in ultrices ipsum lorem sed ligula. Integer vulputate purus id scelerisque imperdiet. Ut nec nunc sed dui blandit congue. Morbi nec arcu urna. Proin scelerisque magna at lacus congue pretium. Fusce id neque ac risus suscipit venenatis vel ut lorem. Nulla quam nulla, auctor eu molestie et, ullamcorper in odio. Proin dapibus laoreet consectetur. Vestibulum metus massa, ultricies quis placerat porttitor, blandit sed ligula. Vestibulum porttitor vehicula sem, non hendrerit tortor tincidunt eget. Curabitur tellus tortor, viverra quis magna non, sollicitudin accumsan purus. Aliquam volutpat, turpis id bibendum lacinia, tortor nibh hendrerit diam, et porta neque ligula eleifend ligula. Phasellus at metus quis mauris elementum convallis in ornare orci. Integer porttitor suscipit sem sit amet sagittis.
@@ -27,17 +27,17 @@ Fusce tempor porta odio ut vulputate. Nam ac velit mi. Sed in odio pulvinar, con
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pulvinar felis vitae nisl viverra ultrices. Praesent elit nisi, tristique at sem sit amet, ullamcorper malesuada sem. Curabitur iaculis lorem dolor, id blandit dui suscipit nec. Suspendisse fermentum in nisl eget fermentum. Suspendisse aliquam ligula ac nisi rutrum, et ultrices nisl tristique. Phasellus id facilisis nunc, in suscipit libero. Cras efficitur nisi non dolor aliquet hendrerit. Mauris interdum velit nec justo mattis fermentum. In sed odio at enim sodales rutrum. Aliquam at ligula dignissim, bibendum risus nec, scelerisque metus. Ut blandit pretium turpis a accumsan.
 
 Suspendisse volutpat, tellus ultricies volutpat pharetra, neque eros congue felis, in ultrices ipsum lorem sed ligula. Integer vulputate purus id scelerisque imperdiet. Ut nec nunc sed dui blandit congue. Morbi nec arcu urna. Proin scelerisque magna at lacus congue pretium. Fusce id neque ac risus suscipit venenatis vel ut lorem. Nulla quam nulla, auctor eu molestie et, ullamcorper in odio. Proin dapibus laoreet consectetur. Vestibulum metus massa, ultricies quis placerat porttitor, blandit sed ligula. Vestibulum porttitor vehicula sem, non hendrerit tortor tincidunt eget. Curabitur tellus tortor, viverra quis magna non, sollicitudin accumsan purus. Aliquam volutpat, turpis id bibendum lacinia, tortor nibh hendrerit diam, et porta neque ligula eleifend ligula. Phasellus at metus quis mauris elementum convallis in ornare orci. Integer porttitor suscipit sem sit amet sagittis.
-### - Screenshots
-![GitHub Logo](https://cardinity.com/uploads/images/Gallery/Integration-images/Drupal-Commerce/screenshot-credentials.PNG)
-### - Downloads
+### Downloads
 Find files here: https://github.com/cardinity/cardinity-magento/releases
-## Change log 
+### Screenshots
+![GitHub Logo](https://cardinity.com/uploads/images/Gallery/Integration-images/Drupal-Commerce/screenshot-credentials.PNG)
+## - Change log 
 | Date          | Changes                |
 | ------------- |------------------------|
 | XXXX.XX.XX    | Added External Payment |
 | XXXX.XX.XX    | 3dsv2 Secured          |
 | XXXX.XX.XX    | Something beutiful     |
-## FAQ
+## - FAQ
 <details shown>
 <summary>What do I do if integration fails?</summary>
      - Maybe, try again?
@@ -49,7 +49,7 @@ Find files here: https://github.com/cardinity/cardinity-magento/releases
 
 <br>
 
-## About us
+## - About us
 Cardinity is registered on VISA Europe and MasterCard International associations to provide e-commerce credit card processing services for online merchants. 
 
 It's a safe and cost-effective online payment solution for e-commerce businesses selling various products or providing services. Available for EU merchants of different types: from low to high risk, from businesses to sole proprietors, from retail products to digital goods.
