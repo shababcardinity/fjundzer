@@ -7,7 +7,7 @@
 [Headers](#headers)  
 [Emphasis](#emphasis)  
 ...snip...    
-<a name="headers"/>1. Requirements<a>
-  <a>2. How to install?</a>
-  <a>3. About us</a>
+<a name="headers"/>
 ## Headers
+2. How to install?
+3. About us</a>
