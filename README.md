@@ -16,7 +16,7 @@ This module will enable Cardinity payments in your Presta e-shop. If you are usi
 <a name="headers"/>    
 ## - How to install?
 #### Installation
-1. Set 777 or 0777 permissions on folder “/modules/”. Don’t forget to change permissions back after installation.
+1. Set 777 or 0777 permissions on folder “/modules/”. Don’t forget to change permissions back after installation.  
 2. Login to your PrestaShop admin area and go to "Modules", then click on "Upload a module", choose the file (.zip), and upload it.
 #### Module Configuration
 To configure the module, on your PrestaShop admin area go to "Modules" and then to "Installed modules".
