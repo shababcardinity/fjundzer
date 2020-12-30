@@ -29,7 +29,7 @@ Suspendisse volutpat, tellus ultricies volutpat pharetra, neque eros congue feli
 • Added External Payment
 • 3dsv2 Secured      
     
-[▲ back to top](#table-of-contents)
+[▲ back to top](#Cardinity-Payment-Gateway-for-X)
 _______________________________________________________________
 ### About us
 Cardinity is a safe and cost-effective online payment solution for e-commerce businesses selling various products or providing services.
