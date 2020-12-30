@@ -5,7 +5,8 @@ This module will enable Cardinity payments in your X e-shop. If you are using ol
  [1. Requirements](#Requirements)  
  [2. How to install?](#how-to-install)  
  [3. About us](#aboutus)   
-    [3.1 Sign up](#sign-up) 
+    [3.1 Sign up](#sign-up)    
+    [3.2 Our features](#our-features) 
 ...snip...
 <a name="headers"/>
 ### 1. Requirements
@@ -26,6 +27,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pulvinar felis
 Suspendisse volutpat, tellus ultricies volutpat pharetra, neque eros congue felis, in ultrices ipsum lorem sed ligula. Integer vulputate purus id scelerisque imperdiet. Ut nec nunc sed dui blandit congue. Morbi nec arcu urna. Proin scelerisque magna at lacus congue pretium. Fusce id neque ac risus suscipit venenatis vel ut lorem. Nulla quam nulla, auctor eu molestie et, ullamcorper in odio. Proin dapibus laoreet consectetur. Vestibulum metus massa, ultricies quis placerat porttitor, blandit sed ligula. Vestibulum porttitor vehicula sem, non hendrerit tortor tincidunt eget. Curabitur tellus tortor, viverra quis magna non, sollicitudin accumsan purus. Aliquam volutpat, turpis id bibendum lacinia, tortor nibh hendrerit diam, et porta neque ligula eleifend ligula. Phasellus at metus quis mauris elementum convallis in ornare orci. Integer porttitor suscipit sem sit amet sagittis.
 #### 3.1 Sign up
 Register directly at our wesbsite https://cardinity.com/sign-up.
+#### 3.2. Our features
+• Fast application and boarding procedure.
+• Global payments. Accept payments in major currencies with all main credit and debit cards from customers all around the world.
+• Recurring billing. Offer subscriptions or memberships, and your customers will be charged automatically.
+• One-click payments. Let your customers purchase with a single click.
+• Mobile payments. Purchases made anywhere on any mobile device.
+• A payment gateway and a free merchant account.
+• Ensured security with our enhanced protection measures.
+• Simple and transparent pricing model. Pay only per transaction and get all the features for free.
 <!--
 **fjundzer/fjundzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
