@@ -42,8 +42,8 @@ https://github.com/cardinity/cardinity-magento/releases
      - Maybe, try again?
 </details>
 <details shown>
-<summary>What do I do if integration fails?</summary>
-     - Maybe, try again?
+<summary>What do I do if I have a question?</summary>
+     - Ask
 </details>
 
 <br>
