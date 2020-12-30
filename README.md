@@ -5,8 +5,8 @@ This module will enable Cardinity payments in your X e-shop. If you are using ol
  [1. Requirements](#1-Requirements)  
  [2. How to install?](#2-how-to-install)  
  [3. About us](#3-aboutus)   
-    [3.1 Sign up](#31-sign-up)    
-    [3.2 Our features](#32-our-features) 
+    [3.1. Sign up](#31-sign-up)    
+    [3.2. Our features](#32-our-features) 
 ...snip...
 <a name="headers"/>
 ### 1. Requirements
