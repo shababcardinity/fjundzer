@@ -2,14 +2,14 @@
 This module will enable Cardinity payments in your X e-shop. If you are using older version of X refer to X branch.
 
 ### Table of Contents  
- [- Requirements](#-Requirements)  
- [- How to install?](#-how-to-install)  
-      [Downloads](#-Downloads)   
-     [Screenshots](#-Screenshots)  
- [- Change log](#-change-log)  
- [- FAQ](#-faq)
+ [- Requirements](#--Requirements)  
+ [- How to install?](#--how-to-install)  
+      [Downloads](#--Downloads)   
+     [Screenshots](#--Screenshots)  
+ [- Change log](#--change-log)  
+ [- FAQ](#--faq)
   
- [- About us](#aboutus)   
+ [- About us](#--aboutus)   
     [Our features](#our-features)         
     [Get started](#sign-up)   
  [Keywords](#keywords)   
