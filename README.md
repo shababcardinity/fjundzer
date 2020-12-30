@@ -4,10 +4,11 @@ This module will enable Cardinity payments in your X e-shop. If you are using ol
 ## Table of Contents  
  [1. Requirements](#1-Requirements)  
  [2. How to install?](#2-how-to-install)  
- [3. About us](#3-aboutus)   
-    [3.1. Sign up](#31-sign-up)    
-    [3.2. Our features](#32-our-features)      
- [4. Keywords](#3-aboutus)   
+ [3. Change log](#3-change-log)   
+ [4. About us](#4-aboutus)   
+    [4.1. Sign up](#41-sign-up)    
+    [4.2. Our features](#42-our-features)      
+ [5. Keywords](#5-keywords)   
 ...snip...
 <a name="headers"/>
 ### 1. Requirements
@@ -22,15 +23,18 @@ Fusce tempor porta odio ut vulputate. Nam ac velit mi. Sed in odio pulvinar, con
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pulvinar felis vitae nisl viverra ultrices. Praesent elit nisi, tristique at sem sit amet, ullamcorper malesuada sem. Curabitur iaculis lorem dolor, id blandit dui suscipit nec. Suspendisse fermentum in nisl eget fermentum. Suspendisse aliquam ligula ac nisi rutrum, et ultrices nisl tristique. Phasellus id facilisis nunc, in suscipit libero. Cras efficitur nisi non dolor aliquet hendrerit. Mauris interdum velit nec justo mattis fermentum. In sed odio at enim sodales rutrum. Aliquam at ligula dignissim, bibendum risus nec, scelerisque metus. Ut blandit pretium turpis a accumsan.
 
 Suspendisse volutpat, tellus ultricies volutpat pharetra, neque eros congue felis, in ultrices ipsum lorem sed ligula. Integer vulputate purus id scelerisque imperdiet. Ut nec nunc sed dui blandit congue. Morbi nec arcu urna. Proin scelerisque magna at lacus congue pretium. Fusce id neque ac risus suscipit venenatis vel ut lorem. Nulla quam nulla, auctor eu molestie et, ullamcorper in odio. Proin dapibus laoreet consectetur. Vestibulum metus massa, ultricies quis placerat porttitor, blandit sed ligula. Vestibulum porttitor vehicula sem, non hendrerit tortor tincidunt eget. Curabitur tellus tortor, viverra quis magna non, sollicitudin accumsan purus. Aliquam volutpat, turpis id bibendum lacinia, tortor nibh hendrerit diam, et porta neque ligula eleifend ligula. Phasellus at metus quis mauris elementum convallis in ornare orci. Integer porttitor suscipit sem sit amet sagittis.
-### 3. About us
+### 3. Change log
+• Added External Payment
+• 3dsv2 Secured
+### 4. About us
 Cardinity is a safe and cost-effective online payment solution for e-commerce businesses selling various products or providing services.
 
 Cardinity is available for EU merchants of different types: from low to high risk, from businesses to sole proprietors, from retail products to digital goods.
 
 We operate not only as a Payment Gateway but also as an Acquiring Bank. With over 10 years of experience in providing reliable online payment services, we continue to grow and improve as a perfect solution for your businesses.
-#### 3.1 Sign up
+#### 4.1 Sign up
 Register directly at our wesbsite https://cardinity.com/sign-up.
-#### 3.2. Our features
+#### 4.2. Our features
 • Fast application and boarding procedure.
 • Global payments. Accept payments in major currencies with all main credit and debit cards from customers all around the world.
 • Recurring billing. Offer subscriptions or memberships, and your customers will be charged automatically.
@@ -39,7 +43,7 @@ Register directly at our wesbsite https://cardinity.com/sign-up.
 • A payment gateway and a free merchant account.
 • Ensured security with our enhanced protection measures.
 • Simple and transparent pricing model. Pay only per transaction and get all the features for free.
-### Keywords
+### 5. Keywords
 payment gateway, credit card payment, online payment, credit card processing, online payment gateway.
 <!--
 **fjundzer/fjundzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
