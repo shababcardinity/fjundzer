@@ -28,8 +28,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pulvinar felis
 For PrestaShop 1.7+ -> https://github.com/cardinity/cardinity-prestashop/releases/tag/v4.0.2
 For PrestaShop 1.4+ -> https://github.com/cardinity/cardinity-prestashop/releases/tag/v1.4.1
 ### Screenshots
-![Prestashop Credentials](https://cardinity.com/uploads/images/Gallery/Integration-images/Prestashop/screenshot-credentials.PNG)
-![PrestaShop upload module](https://cardinity.com/uploads/images/Gallery/Integration-images/Prestashop/screenshot-upload-module.PNG)
+1. Add Credentials ![Prestashop Credentials](https://cardinity.com/uploads/images/Gallery/Integration-images/Prestashop/screenshot-credentials.PNG)
+2. Module selection ![PrestaShop upload module](https://cardinity.com/uploads/images/Gallery/Integration-images/Prestashop/screenshot-upload-module.PNG)
 ## - Changelog 
 | Date          | Changes                |
 | ------------- |------------------------|
