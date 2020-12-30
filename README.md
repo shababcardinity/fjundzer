@@ -36,6 +36,7 @@ https://github.com/cardinity/cardinity-magento/releases
 | XXXX.XX.XX    | Added External Payment |
 | XXXX.XX.XX    | 3dsv2 Secured          |
 | XXXX.XX.XX    | Something beutiful     |
+
 \
 \
 \
