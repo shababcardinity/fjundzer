@@ -29,7 +29,7 @@ Suspendisse volutpat, tellus ultricies volutpat pharetra, neque eros congue feli
 ### - Screenshots
 ![GitHub Logo](https://cardinity.com/uploads/images/Gallery/Integration-images/Drupal-Commerce/screenshot-credentials.PNG)
 ### - Downloads
-All the files needed for installation can be found here: https://github.com/cardinity/cardinity-magento/releases
+https://github.com/cardinity/cardinity-magento/releases
 ## Change log 
 | Date          | Changes                |
 | ------------- |------------------------|
