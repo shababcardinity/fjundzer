@@ -33,13 +33,13 @@ Suspendisse volutpat, tellus ultricies volutpat pharetra, neque eros congue feli
 | XXXX.XX.XX    | Something beutiful     |
 _______________________________________________________________
 ### About us
-Cardinity is a safe and cost-effective online payment solution for e-commerce businesses selling various products or providing services.
+Cardinity is registered on VISA Europe and MasterCard International associations to provide e-commerce credit card processing services for online merchants. 
 
-Cardinity is available for EU merchants of different types: from low to high risk, from businesses to sole proprietors, from retail products to digital goods.
+It's a safe and cost-effective online payment solution for e-commerce businesses selling various products or providing services. Available for EU merchants of different types: from low to high risk, from businesses to sole proprietors, from retail products to digital goods.
 
 We operate not only as a Payment Gateway but also as an Acquiring Bank. With over 10 years of experience in providing reliable online payment services, we continue to grow and improve as a perfect solution for your businesses.
 ##### Sign up
-Register directly at our wesbsite https://cardinity.com/sign-up.
+To start accepting credit and debit card payments on your e-commerce business, register directly at our website https://cardinity.com/sign-up.
 ##### Our features
 • Fast application and boarding procedure.   
 • Global payments. Accept payments in major currencies with all main credit and debit cards from customers all around the world.   
@@ -50,7 +50,7 @@ Register directly at our wesbsite https://cardinity.com/sign-up.
 • Ensured security with our enhanced protection measures.   
 • Simple and transparent pricing model. Pay only per transaction and get all the features for free.
 ### Keywords
-payment gateway, credit card payment, online payment, credit card processing, online payment gateway.   
+payment gateway, credit card payment, online payment, credit card processing, online payment gateway, cardinity for X.   
     
  [▲ back to top](#Cardinity-Payment-Gateway-for-X)
 <!--
