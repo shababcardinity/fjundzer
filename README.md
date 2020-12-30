@@ -37,9 +37,8 @@ https://github.com/cardinity/cardinity-magento/releases
 | XXXX.XX.XX    | 3dsv2 Secured          |
 | XXXX.XX.XX    | Something beutiful     |
 ## FAQ
-<details open>
+<details shown>
 <summary>What do I do if integration fails?</summary>
-<br>
 Try again!
 </details>
 <br>
