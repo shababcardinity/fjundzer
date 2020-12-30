@@ -40,8 +40,12 @@ https://github.com/cardinity/cardinity-magento/releases
 <details shown>
 <summary>What do I do if integration fails?</summary>
      - Maybe, try again?
+<summary>What do I do if integration fails?</summary>
+     - Maybe, try again?
 </details>
+
 <br>
+
 ## About us
 Cardinity is registered on VISA Europe and MasterCard International associations to provide e-commerce credit card processing services for online merchants. 
 
