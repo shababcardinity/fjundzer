@@ -3,7 +3,7 @@
 [Headers](#headers)  
 [Emphasis](#emphasis)  
 [Requirements](#requirements) 
-...snip...    
+
 <a name="headers"/>
 ## Headers
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pulvinar felis vitae nisl viverra ultrices. Praesent elit nisi, tristique at sem sit amet, ullamcorper malesuada sem. Curabitur iaculis lorem dolor, id blandit dui suscipit nec. Suspendisse fermentum in nisl eget fermentum. Suspendisse aliquam ligula ac nisi rutrum, et ultrices nisl tristique. Phasellus id facilisis nunc, in suscipit libero. Cras efficitur nisi non dolor aliquet hendrerit. Mauris interdum velit nec justo mattis fermentum. In sed odio at enim sodales rutrum. Aliquam at ligula dignissim, bibendum risus nec, scelerisque metus. Ut blandit pretium turpis a accumsan.
