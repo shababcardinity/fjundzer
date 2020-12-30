@@ -6,10 +6,10 @@ This module will enable Cardinity payments in your X e-shop. If you are using ol
  [2. How to install?](#2-how-to-install)  
  [3. Change log](#3-change-log)   
     
- [About us](#4-aboutus)   
-    [Sign up](#41-sign-up)    
-    [Our features](#42-our-features)      
- [Keywords](#5-keywords)   
+ [About us](#aboutus)   
+    [Sign up](#sign-up)    
+    [Our features](#our-features)      
+ [Keywords](#keywords)   
 ____________________________________________
 <a name="headers"/>   
  
@@ -29,7 +29,7 @@ Suspendisse volutpat, tellus ultricies volutpat pharetra, neque eros congue feli
 • Added External Payment
 • 3dsv2 Secured   
 _______________________________________________________________
-### About us
+## About us
 Cardinity is a safe and cost-effective online payment solution for e-commerce businesses selling various products or providing services.
 
 Cardinity is available for EU merchants of different types: from low to high risk, from businesses to sole proprietors, from retail products to digital goods.
@@ -46,7 +46,7 @@ Register directly at our wesbsite https://cardinity.com/sign-up.
 • A payment gateway and a free merchant account.
 • Ensured security with our enhanced protection measures.
 • Simple and transparent pricing model. Pay only per transaction and get all the features for free.
-### 5. Keywords
+## Keywords
 payment gateway, credit card payment, online payment, credit card processing, online payment gateway.
 <!--
 **fjundzer/fjundzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
