@@ -1,12 +1,15 @@
 ### Hi there 👋
 ##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
+[How to install](#installation)  
+[About Us](#about) 
+[requirements](#requirements)
 ...snip...    
-<a name="headers"/>
-## Headers
-2. How to install?
-3. About us</a>
+<a name="installation"/>
+## Installation
+<a name="about"/>
+## About
+<a name="requirements"/>
+## Requirements
 
 <!--
 **fjundzer/fjundzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
