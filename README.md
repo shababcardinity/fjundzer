@@ -1,7 +1,7 @@
 ### Hi there 👋
 ##### Table of Contents  
-[How to install](#How to install)  
-[About Us](#about us) 
+[installation](#installation)  
+[About](#about) 
 [requirements](#requirements)
 ...snip...    
 <a name="How to install"/>
