@@ -28,6 +28,11 @@ Suspendisse volutpat, tellus ultricies volutpat pharetra, neque eros congue feli
 ### 3. Change log
 • Added External Payment   
 • 3dsv2 Secured      
+| Date          | Changes       |
+| ------------- |:-------------:|
+| XXXX.XX.XX    | Added External Payment |
+| XXXX.XX.XX    | 3dsv2 Secured          |
+| XXXX.XX.XX    | Something beutiful     |
 _______________________________________________________________
 ### About us
 Cardinity is a safe and cost-effective online payment solution for e-commerce businesses selling various products or providing services.
