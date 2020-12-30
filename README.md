@@ -31,8 +31,8 @@ Suspendisse volutpat, tellus ultricies volutpat pharetra, neque eros congue feli
 ### - Downloads
 https://github.com/cardinity/cardinity-magento/releases
 ## Change log 
-| Date          | Changes       |
-| ------------- |---------------|
+| Date          | Changes                |
+| ------------- |------------------------|
 | XXXX.XX.XX    | Added External Payment |
 | XXXX.XX.XX    | 3dsv2 Secured          |
 | XXXX.XX.XX    | Something beutiful     |
