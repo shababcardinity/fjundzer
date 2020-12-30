@@ -63,8 +63,9 @@ We operate not only as a Payment Gateway but also as an Acquiring Bank. With ove
 • A payment gateway and a free merchant account.   
 • Ensured security with our enhanced protection measures.   
 • Simple and transparent pricing model. Pay only per transaction and get all the features for free.
-### Sign up
+### Get started
 To start accepting credit and debit card payments on your e-commerce business, register directly at our website https://cardinity.com/sign-up.
+Having questions? Ask them @ https://cardinity.com/company/contact-us
 ### Keywords
 payment gateway, credit card payment, online payment, credit card processing, online payment gateway, cardinity for X.   
 __________________________________________________________________    
