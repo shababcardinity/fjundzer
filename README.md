@@ -39,7 +39,7 @@ https://github.com/cardinity/cardinity-magento/releases
 ## FAQ
 <details shown>
 <summary>What do I do if integration fails?</summary>
-Try again!
+     - Try again!
 </details>
 <br>
 
