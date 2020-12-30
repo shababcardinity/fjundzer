@@ -39,6 +39,8 @@ Register directly at our wesbsite https://cardinity.com/sign-up.
 • A payment gateway and a free merchant account.
 • Ensured security with our enhanced protection measures.
 • Simple and transparent pricing model. Pay only per transaction and get all the features for free.
+### Keywords
+payment gateway, credit card payment, online payment, credit card processing, online payment gateway.
 <!--
 **fjundzer/fjundzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
