@@ -55,7 +55,9 @@ Cardinity is registered on VISA Europe and MasterCard International associations
 
 It's a safe and cost-effective online payment solution for e-commerce businesses selling various products or providing services. Available for EU merchants of different types: from low to high risk, from businesses to sole proprietors, from retail products to digital goods.
 
-We operate not only as a Payment Gateway but also as an Acquiring Bank. With over 10 years of experience in providing reliable online payment services, we continue to grow and improve as a perfect solution for your businesses.
+We operate not only as a Payment Gateway but also as an Acquiring Bank. With over 10 years of experience in providing reliable online payment services, we continue to create a perfect solution for your businesses.
+
+Learn more at www.cardinity.com
 ### Our features
 • Fast application and boarding procedure.   
 • Global payments. Accept payments in major currencies with all main credit and debit cards from customers all around the world.   
