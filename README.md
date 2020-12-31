@@ -6,7 +6,7 @@ This module will enable Cardinity payments in your Presta e-shop. If you are usi
      [Requirements](#requirements)     
       [Downloads](#Downloads)   
      [Screenshots](#Screenshots)  
-     [► Changelog](#--changelog)  
+ [► Changelog](#--changelog)  
  [► FAQ](#--faq)
   
  [► About us](#--aboutus)   
@@ -14,7 +14,7 @@ This module will enable Cardinity payments in your Presta e-shop. If you are usi
     [Get started](#sign-up)   
  [Keywords](#keywords)   
 <a name="headers"/>    
-## - How to install?
+## ► How to install?
 ##### Installation
 1. Set 777 or 0777 permissions on folder “/modules/”. Don’t forget to change permissions back after installation.  
 2. Login to your PrestaShop admin area and go to "Modules", then click on "Upload a module", choose the file (.zip), and upload it.
@@ -32,13 +32,13 @@ For PrestaShop 1.4+ -> https://github.com/cardinity/cardinity-prestashop/release
 ![Prestashop Credentials](https://cardinity.com/uploads/images/Gallery/Integration-images/Prestashop/screenshot-credentials.PNG)
 2. Module selection<br>
 ![PrestaShop upload module](https://cardinity.com/uploads/images/Gallery/Integration-images/Prestashop/screenshot-upload-module.PNG)
-## - Changelog 
+## ► Changelog 
 | Date          | Changes                |
 | ------------- |------------------------|
 | XXXX.XX.XX    | 1st thing happened     |
 | XXXX.XX.XX    | 3dsv2 Secured          |
 | XXXX.XX.XX    | Something beautiful    |
-## - FAQ
+## ► FAQ
 <details shown>
 <summary>What do I do if integration fails?</summary>
      - Maybe, try again?
@@ -50,7 +50,7 @@ For PrestaShop 1.4+ -> https://github.com/cardinity/cardinity-prestashop/release
 
 <br>
 
-## - About us
+## ► About us
 Cardinity is registered on VISA Europe and MasterCard International associations to provide e-commerce credit card processing services for online merchants. 
 
 It's a safe and cost-effective online payment solution for e-commerce businesses selling various products or providing services. Available for EU merchants of different types: from low to high risk, from businesses to sole proprietors, from retail products to digital goods.
