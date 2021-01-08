@@ -29,9 +29,9 @@ Put this inside app/code/Cardinity/Payment
 
 add
 
-| "require": {
+`<addr>`"require": {
     "cardinity/cardinity-sdk-php": "~3.0",
-    *** |
+    *** `<addr>`
 in magento composer.json and composer update
 
 ### Requirements
