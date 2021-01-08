@@ -37,9 +37,9 @@ add
 in magento composer.json and composer update
 
 ### Requirements
-• Cardinity account
-• Magento Community Edition v2.0.0 or above
-• PHP ≥ 7.2
+• Cardinity account  
+• Magento Community Edition v2.0.0 or above  
+• PHP ≥ 7.2  
 ### Downloads
 Find the latest Cardinity Payment Module for Magento 2 here: https://github.com/cardinity/cardinity-magento/releases
 ### Screenshots
