@@ -16,7 +16,7 @@ This module will enable Cardinity payments system in your Presta e-shop. If you 
 <a name="headers"/>    
 ## ► How to install?
 Recommended to install via marketplace. After install you can set configurations from Store -> Configuration -> Payment Methods
-##### Using marketplace
+#### Using marketplace
 1. Navigate to https://marketplace.magento.com/cardinity-magento.html
 2. Select your store version and add extension to cart. 
 3. Obtain the extension via Magento Marketplace Platform. 
@@ -24,7 +24,7 @@ Recommended to install via marketplace. After install you can set configurations
 5. Once you are redirected to "Keys" page, copy private and public access key.
 6. Login to your store admin panel.
 
-##### Using app/code
+#### Using app/code
 Put this inside app/code/Cardinity/Payment
 
 add
