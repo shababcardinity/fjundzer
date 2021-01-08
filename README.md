@@ -46,7 +46,7 @@ add
 in magento composer.json and composer update
 
 ### Screenshots
-1. Keys page<br>
+1. Magento keys page<br>
 ![Magento Keys page](https://raw.githubusercontent.com/cardinity/cardinity-magento/master/screen.png)
 ## ► Changelog 
 For Magento 2
