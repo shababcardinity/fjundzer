@@ -39,9 +39,6 @@ For Magento 2
 | ------------- |-----------------------------------------------------|------------|
 | 2020.12.23    | bug fix, minor update related to refund issues.     | v2.0.1     |
 | 2020.12.08    | • Updated cardinity sdk to version 3,<br>• 3D secured version 2 with fallback to version 1,<br>• External hosted payments                  | v.2.0.0      |
-                             
-                                                            
-|               |                                                     |            |
 
 For Magento 1 (1.7 - 1.9)
 | Date          | Changes                                             |Version     |
