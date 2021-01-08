@@ -46,10 +46,8 @@ add
 in magento composer.json and composer update
 
 ### Screenshots
-1. Add Credentials<br>
-![Prestashop Credentials](https://cardinity.com/uploads/images/Gallery/Integration-images/Prestashop/screenshot-credentials.PNG)
-2. Module selection<br>
-![PrestaShop upload module](https://cardinity.com/uploads/images/Gallery/Integration-images/Prestashop/screenshot-upload-module.PNG)
+1. Keys page<br>
+![Magento Keys page](https://raw.githubusercontent.com/cardinity/cardinity-magento/master/screen.png)
 ## ► Changelog 
 For Magento 2
 | Date          | Changes                                             |Version     |
