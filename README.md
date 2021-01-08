@@ -51,20 +51,22 @@ For PrestaShop 1.4+ -> https://github.com/cardinity/cardinity-prestashop/release
 <br>
 
 ## ► About us
-Cardinity is a licensed payment institution, active in the European Union, registered on VISA Europe and MasterCard International associations to provide <i>e-commerce credit card processing services</i> for online merchants. 
+Cardinity is a licensed payment institution, active in the European Union, registered on VISA Europe and MasterCard International associations to provide <b>e-commerce credit card processing services</b> for online merchants. 
 
-It's a safe and cost-effective online payment solution for e-commerce businesses selling various products or providing services. Available for EU merchants of different types: from low to high risk, from businesses to sole proprietors, from retail products to digital goods.
+We operate not only as a <u>payment gateway</u> but also as an <u>acquiring Bank</u>. With over 10 years of experience in providing reliable online payment services, we continue to grow and improve as a perfect solution for your businesses.
 
-We operate not only as a Payment Gateway but also as an Acquiring Bank. With over 10 years of experience in providing reliable online payment services, we continue to grow and improve as a perfect solution for your businesses.
+Cardinity is certified as PCI-DSS level 1 payment service provider and always assures a secure environment for transactions.
+
+We assure a safe and cost-effective, all-in-one online payment solution for e-commerce businesses and sole proprietorships.
 ### Our features
 • Fast application and boarding procedure.   
-• Global payments. Accept payments in major currencies with all main credit and debit cards from customers all around the world.   
-• Recurring billing. Offer subscriptions or memberships, and your customers will be charged automatically.   
-• One-click payments. Let your customers purchase with a single click.   
+• Global payments - accept payments in major currencies with credit and debit cards from customers all around the world.   
+• Recurring billing for subscription or membership based sales.
+• One-click payments - let your customers purchase with a single click.   
 • Mobile payments. Purchases made anywhere on any mobile device.   
-• A payment gateway and a free merchant account.   
-• Ensured security with our enhanced protection measures.   
-• Simple and transparent pricing model. Pay only per transaction and get all the features for free.
+• Free merchant account.   
+• PCI DSS level 1 compliance and assured security with our enhanced protection measures.   
+• Simple and transparent pricing model. Pay only per transaction and receive all the features for free.
 ### Get started
 To start accepting credit and debit card payments on your e-commerce business, register directly at our website https://cardinity.com/sign-up or contact us at https://cardinity.com/company/contact-us
 ### Keywords
