@@ -51,7 +51,7 @@ For PrestaShop 1.4+ -> https://github.com/cardinity/cardinity-prestashop/release
 <br>
 
 ## ► About us
-Cardinity is registered on VISA Europe and MasterCard International associations to provide e-commerce credit card processing services for online merchants. 
+Cardinity is a licensed payment institution, active in the European Union, registered on VISA Europe and MasterCard International associations to provide <i>e-commerce credit card processing services</i> for online merchants. 
 
 It's a safe and cost-effective online payment solution for e-commerce businesses selling various products or providing services. Available for EU merchants of different types: from low to high risk, from businesses to sole proprietors, from retail products to digital goods.
 
