@@ -1,5 +1,5 @@
 # Cardinity Payment Gateway for PrestaShop
-This module will enable Cardinity payments in your Presta e-shop. If you are using older version of X refer to X branch.
+This module will enable Cardinity payments system in your Presta e-shop. If you are using older version of X refer to X branch.
 
 ### Table of Contents  
  [► How to install?](#-how-to-install)   
