@@ -53,7 +53,7 @@ For PrestaShop 1.4+ -> https://github.com/cardinity/cardinity-prestashop/release
 ## ► About us
 Cardinity is a licensed payment institution, active in the European Union, registered on VISA Europe and MasterCard International associations to provide <b>e-commerce credit card processing services</b> for online merchants. 
 
-We operate not only as a <u>payment gateway</u> but also as an <u>acquiring Bank</u>. With over 10 years of experience in providing reliable online payment services, we continue to grow and improve as a perfect solution for your businesses.
+We operate not only as a <u>payment gateway</u> but also as an <u>acquiring Bank</u>. With over 10 years of experience in providing reliable online payment services, we continue to grow and improve as a perfect payment service solution for your businesses.
 
 Cardinity is certified as PCI-DSS level 1 payment service provider and always assures a secure environment for transactions.
 
