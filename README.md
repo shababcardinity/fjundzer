@@ -70,8 +70,7 @@ We assure a safe and cost-effective, all-in-one online payment solution for e-co
 ### Get started
 To start accepting credit and debit card payments on your e-commerce business, register directly at our website https://cardinity.com/sign-up or contact us at https://cardinity.com/company/contact-us
 ### Keywords
-payment gateway, credit card payment, online payment, credit card processing, online payment gateway, cardinity for X.   
-__________________________________________________________________    
+payment gateway, credit card payment, online payment, credit card processing, online payment gateway, cardinity for X.     
  [▲ back to top](#Cardinity-Payment-Gateway-for-PrestaShop)
 <!--
 **fjundzer/fjundzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
