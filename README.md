@@ -61,14 +61,14 @@ We assure a safe and cost-effective, all-in-one online payment solution for e-co
 ### Our features
 • Fast application and boarding procedure.   
 • Global payments - accept payments in major currencies with credit and debit cards from customers all around the world.   
-• Recurring billing for subscription or membership based sales.
+• Recurring billing for subscription or membership based sales.  
 • One-click payments - let your customers purchase with a single click.   
 • Mobile payments. Purchases made anywhere on any mobile device.   
-• Free merchant account.   
+• Payment gateway and free merchant account.   
 • PCI DSS level 1 compliance and assured security with our enhanced protection measures.   
-• Simple and transparent pricing model. Pay only per transaction and receive all the features for free.
+• Simple and transparent pricing model. Only pay per transaction and receive all the features for free.
 ### Get started
-To start accepting credit and debit card payments on your e-commerce business, register directly at our website https://cardinity.com/sign-up or contact us at https://cardinity.com/company/contact-us
+To start accepting credit and debit card payments on your e-commerce business, sign-up directly at our website <a href="https://cardinity.com/sign-up">here</a> or contact us <a href="https://cardinity.com/company/contact-us">here</a>
 ### Keywords
 payment gateway, credit card payment, online payment, credit card processing, online payment gateway, cardinity for X.     
 
