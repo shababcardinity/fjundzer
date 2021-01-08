@@ -41,7 +41,8 @@ For Magento 2
 | 2020.12.08    | Updated cardinity sdk to version 3                  |            |
                   3D secured version 2 with fallback to version 1       v.2.0.0    
                   External hosted payment                                          
-  
+|               |                                                     |            |
+
 For Magento 1 (1.7 - 1.9)
 | Date          | Changes                                             |Version     |
 | ------------- |-----------------------------------------------------|------------|
