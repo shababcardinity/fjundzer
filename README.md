@@ -29,7 +29,7 @@ Put this inside app/code/Cardinity/Payment
 
 add
 
-|"require": {
+| "require": {
     "cardinity/cardinity-sdk-php": "~3.0",
     *** |
 in magento composer.json and composer update
