@@ -3,8 +3,9 @@ This module will enable Cardinity payments system in your Presta e-shop. If you 
 
 ### Table of Contents  
  [► How to install?](#-how-to-install)   
-      [Requirements](#requirements)     
-       [Downloads](#Downloads)   
+      [Downloads](#Downloads) 
+      [Requirements](#requirements) 
+      [Installation](#installation)   
       [Screenshots](#Screenshots)  
  [► Changelog](#-changelog)  
  [► FAQ](#-faq)
@@ -15,6 +16,14 @@ This module will enable Cardinity payments system in your Presta e-shop. If you 
  [Keywords](#keywords)   
 <a name="headers"/>    
 ## ► How to install?
+
+### Downloads
+Find the latest Cardinity Payment Module for Magento 2 here: https://github.com/cardinity/cardinity-magento/releases
+### Requirements
+• Cardinity account  
+• Magento Community Edition v2.0.0 or above  
+• PHP ≥ 7.2  
+### Installation
 Recommended to install via marketplace. After install you can set configurations from Store -> Configuration -> Payment Methods
 #### Using marketplace
 1. Navigate to https://marketplace.magento.com/cardinity-magento.html
@@ -36,12 +45,6 @@ add
     
 in magento composer.json and composer update
 
-### Requirements
-• Cardinity account  
-• Magento Community Edition v2.0.0 or above  
-• PHP ≥ 7.2  
-### Downloads
-Find the latest Cardinity Payment Module for Magento 2 here: https://github.com/cardinity/cardinity-magento/releases
 ### Screenshots
 1. Add Credentials<br>
 ![Prestashop Credentials](https://cardinity.com/uploads/images/Gallery/Integration-images/Prestashop/screenshot-credentials.PNG)
