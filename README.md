@@ -28,10 +28,11 @@ Recommended to install via marketplace. After install you can set configurations
 Put this inside app/code/Cardinity/Payment
 
 add
-
-`<addr>`"require": {
+```
+"require": {
     "cardinity/cardinity-sdk-php": "~3.0",
-    *** `<addr>`
+    *** 
+    ```
 in magento composer.json and composer update
 
 ### Requirements
