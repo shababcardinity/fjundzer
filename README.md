@@ -1,5 +1,5 @@
-# Cardinity Payment Gateway for PrestaShop
-This module will enable Cardinity payments system in your Presta e-shop. If you are using older version of X refer to X branch.
+# Cardinity Payment Gateway for Magento 2
+This module will enable Cardinity payments system in your Magento e-shop. If you are using older version of Magento refer to <a href="https://github.com/cardinity/cardinity-magento/tree/1.9.x">1.9 branch</a>.
 
 ### Table of Contents  
  [► How to install?](#-how-to-install)   
