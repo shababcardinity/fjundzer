@@ -68,7 +68,7 @@ We assure a safe and cost-effective, all-in-one online payment solution for e-co
 • PCI DSS level 1 compliance and assured security with our enhanced protection measures.   
 • Simple and transparent pricing model. Only pay per transaction and receive all the features for free.
 ### Get started
-<a href="https://cardinity.com/sign-up">Click here</a> to sign-up and start accepting credit and debit card payments on your e-commerce business or <a href="https://cardinity.com/company/contact-us">here</a> to contact us 
+<a href="https://cardinity.com/sign-up">Click here</a> to sign-up and start accepting credit and debit card payments on your website or <a href="https://cardinity.com/company/contact-us">here</a> to contact us 
 ### Keywords
 payment gateway, credit card payment, online payment, credit card processing, online payment gateway, cardinity for X.     
 
