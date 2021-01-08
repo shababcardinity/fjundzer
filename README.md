@@ -23,21 +23,28 @@ To configure the module, on your PrestaShop admin area go to "Modules" and then 
 Find Cardinity module and click on "Configure".
 There is only one section in module’s configuration page. You need to enter Consumer Key and Consumer Secret which you can find on your Cardinity account’s member’s area (navigate to Integration → API Settings).
 ### Requirements
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pulvinar felis vitae nisl viverra ultrices. Praesent elit nisi, tristique at sem sit amet, ullamcorper malesuada sem. Curabitur iaculis lorem dolor, id blandit dui suscipit nec. Suspendisse fermentum in nisl eget fermentum. Suspendisse aliquam ligula ac nisi rutrum, et ultrices nisl tristique. Phasellus id facilisis nunc, in suscipit libero. Cras efficitur nisi non dolor aliquet hendrerit. Mauris interdum velit nec justo mattis fermentum. In sed odio at enim sodales rutrum. Aliquam at ligula dignissim, bibendum risus nec, scelerisque metus. Ut blandit pretium turpis a accumsan.
+• Cardinity account
+• Magento Community Edition v2.0.0 or above
+• PHP ≥ 7.2
 ### Downloads
-For PrestaShop 1.7+ -> https://github.com/cardinity/cardinity-prestashop/releases/tag/v4.0.2
-For PrestaShop 1.4+ -> https://github.com/cardinity/cardinity-prestashop/releases/tag/v1.4.1
+Find the latest Cardinity Payment Module for Magento 2 here: https://github.com/cardinity/cardinity-magento/releases
 ### Screenshots
 1. Add Credentials<br>
 ![Prestashop Credentials](https://cardinity.com/uploads/images/Gallery/Integration-images/Prestashop/screenshot-credentials.PNG)
 2. Module selection<br>
 ![PrestaShop upload module](https://cardinity.com/uploads/images/Gallery/Integration-images/Prestashop/screenshot-upload-module.PNG)
 ## ► Changelog 
-| Date          | Changes                |
-| ------------- |------------------------|
-| XXXX.XX.XX    | 1st thing happened     |
-| XXXX.XX.XX    | 3dsv2 Secured          |
-| XXXX.XX.XX    | Something beautiful    |
+For Magento 2
+| Date          | Changes                                             |Version     |
+| ------------- |-----------------------------------------------------|------------|
+| 2020.12.23    | bug fix, minor update related to refund issues.     | v2.0.1     |
+| 2020.12.08    | Updated cardinity sdk to version 3                  |            |
+|               | 3D secured version 2 with fallback to version 1     | v.2.0.0    |
+|               | External hosted payment                             |            |
+  
+For Magento 1 (1.7 - 1.9)
+| Date          | Changes                                             |Version     |
+| 2020.12.09    | Added payment by external hosted gateway            |magento-1.9 |
 ## ► FAQ
 <details shown>
 <summary>What do I do if integration fails?</summary>
