@@ -32,7 +32,8 @@ add
 "require": {
     "cardinity/cardinity-sdk-php": "~3.0",
     *** 
-    ```
+```
+    
 in magento composer.json and composer update
 
 ### Requirements
