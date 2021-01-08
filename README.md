@@ -4,8 +4,8 @@ This module will enable Cardinity payments system in your Presta e-shop. If you 
 ### Table of Contents  
  [► How to install?](#-how-to-install)   
       [Downloads](#Downloads)   
-        [Requirements](#requirements)   
-        [Installation](#installation)     
+       [Requirements](#requirements)   
+       [Installation](#installation)     
        [Screenshots](#Screenshots)  
  [► Changelog](#-changelog)  
  [► FAQ](#-faq)
