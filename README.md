@@ -6,7 +6,7 @@ This module will enable Cardinity payments system in your Magento e-shop. If you
       [Using marketplace](#using-marketplace)   
       [Using app/code](#using-appcode)   
  [► Changelog](#-changelog)  
- [► FAQ](#-faq)  
+  
  [► About us](#-aboutus)     
 <a name="headers"/>  
 
@@ -81,15 +81,6 @@ For Magento 1 (1.7 - 1.9)
 | Date          | Changes                                             |Version     |
 | ------------- |-----------------------------------------------------|------------|
 | 2020.12.09    | Added payment by external hosted gateway            |magento-1.9 |
-### ► FAQ
-<details shown>
-<summary>What do I do if integration fails?</summary>
-     - Maybe, try again?
-</details>
-<details shown>
-<summary>What do I do if I have a question?</summary>
-     - Ask
-</details>
 
 ---
 
