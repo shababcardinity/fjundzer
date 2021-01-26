@@ -26,11 +26,26 @@ Find the latest Cardinity Payment Module for Magento 2 here: https://github.com/
 ### Installation
 Recommended to install via marketplace. After install you can set configurations from Store -> Configuration -> Payment Methods
 #### Using marketplace
-1. Go to Magento marketplace and search for "Cardinity payment gateway" or navigate directly: https://marketplace.magento.com/cardinity-magento.html
-2. Select your store version and add extension to cart. 
-3. Obtain the extension via Magento Marketplace Platform. 
-4. Once the order is complete, click install extension.
-5. Once you are redirected to "Keys" page, copy private and public access key.
+<details>
+<summary>1. Go to Magento marketplace and search for "Cardinity payment gateway" or navigate directly to → https://marketplace.magento.com/cardinity-magento.html</summary>
+ <img src="https://user-images.githubusercontent.com/76772655/105848170-45ea5000-5fe7-11eb-8d94-64450da5476c.png" width="800">
+ </details>
+ <details>
+<summary>2. Select your store version and add extension to cart.</summary>
+ <img src="https://user-images.githubusercontent.com/76772655/105849360-f147d480-5fe8-11eb-9b71-7d26bd82c432.png" width="500">
+<details>
+<summary>3. Proceed to checkout, fill in the billing form (do not worry its free) and obtain the extension via Magento Marketplace Platform by clicking ".</summary>
+ <img src="https://user-images.githubusercontent.com/76772655/105849767-8054ec80-5fe9-11eb-8ccd-6ab94adcfd83.png" width="500">
+ <img src="https://user-images.githubusercontent.com/76772655/105850356-4a643800-5fea-11eb-8db0-56dfb21ffe45.png" width="500">
+</details>
+<details>
+<summary>
+4. Once the order is complete, click install extension.</summary>
+ <img src="https://user-images.githubusercontent.com/76772655/105850558-8eefd380-5fea-11eb-8fbd-48e3c482ea79.png" width="500">
+ </details>
+<details>
+<summary>5. Once you are redirected to "My Access Keys" page, copy private and public access keys.
+ <img src="https://user-images.githubusercontent.com/76772655/105851009-29501700-5feb-11eb-958d-081b10120578.png" width="500"></details>
 6. Login to your store admin panel.
 
 #### Using app/code
@@ -46,10 +61,7 @@ add
 in magento composer.json and composer update
 
 ### Screenshots
-<details>
- <summary>1. Navigate to "Cardinity Payment gateway" in Magento marketplace</summary>
-<img src="https://user-images.githubusercontent.com/76772655/105848170-45ea5000-5fe7-11eb-8d94-64450da5476c.png" width="800">
-</details>
+
 
 1. Magento keys page<br>
 ![Magento Keys page](https://raw.githubusercontent.com/cardinity/cardinity-magento/master/screen.png)
