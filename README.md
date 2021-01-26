@@ -66,10 +66,11 @@ add
     "cardinity/cardinity-sdk-php": "~3.0",
     *** 
 ```
-<br>
-<br>
----
 
+\
+\
+
+---
 ### ► Changelog 
 For Magento 2
 | Date          | Changes                                             |Version     |
