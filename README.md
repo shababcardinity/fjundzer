@@ -2,11 +2,11 @@
 This module will enable Cardinity payments system in your Magento e-shop. If you are using older version of Magento refer to <a href="https://github.com/cardinity/cardinity-magento/tree/1.9.x">1.9 branch</a>.
 
 ### Table of Contents  
-[<b>How to install?</b>](#how-to-install)  
+[<b>How to install? →</b>](#how-to-install)
       [Using marketplace](#using-marketplace)   
       [Using app/code](#using-appcode)   
- [Changelog](#changelog)  
- [<b>About us</b>](#-aboutus)     
+ [<b>Changelog →</b>](#changelog)  
+ [<b>About us →</b>](#-aboutus)     
 <a name="headers"/>  
 
 ## How to install?
