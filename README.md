@@ -48,8 +48,9 @@ in magento composer.json and composer update
 ### Screenshots
 <details>
  <summary>1. Navigate to "Cardinity Payment gateway" in Magento marketplace</summary>
-<img src="https://prnt.sc/xno49z" width="500">
+<img src="https://drive.google.com/file/d/1Fcw9C4Av-WVn2Jer7LZ1jtYKq_pOsmUf/view?usp=sharing" width="500">
 </details>
+
 1. Magento keys page<br>
 ![Magento Keys page](https://raw.githubusercontent.com/cardinity/cardinity-magento/master/screen.png)
 ## ► Changelog 
