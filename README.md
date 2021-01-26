@@ -102,7 +102,8 @@ For Magento 1 (1.7 - 1.9)
   <details>
 <summary>Question2 →</summary>
   Answer2
-  </details>  
+  </details>
+
  
 <br>
 -----
