@@ -60,6 +60,8 @@ Recommended to install via marketplace. After install you can set configurations
  <details>
 <summary>10. If everything is done correctly, you should be prompted</summary>
 <img src="https://user-images.githubusercontent.com/76772655/105855047-4dfabd80-5ff0-11eb-8570-1e0aeb7dd44c.png" width="800"></details>
+
+
 #### Using app/code
 Put this inside app/code/Cardinity/Payment
 
