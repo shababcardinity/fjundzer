@@ -23,7 +23,7 @@ Find the latest Cardinity Payment Module for Magento 2 here: https://github.com/
 ### Installation
 Recommended to install via marketplace. You can click on each step for screenshot to appear with clearer instructions. 
 #### Using marketplace
-<details>
+<li><details>
 <summary>1. Go to Magento marketplace and search for "Cardinity payment gateway" or navigate directly to → https://marketplace.magento.com/cardinity-magento.html</summary>
  <img src="https://user-images.githubusercontent.com/76772655/105848170-45ea5000-5fe7-11eb-8d94-64450da5476c.png" width="600">
  </details>
@@ -54,7 +54,7 @@ Recommended to install via marketplace. You can click on each step for screensho
 <br>Step 3.<br><img src="https://user-images.githubusercontent.com/76772655/105854542-af6e5c80-5fef-11eb-91ec-be277f5147a9.png" width="600"></details>
  <details>
 <summary>10. If everything is done correctly, you should be prompted that Cardinity extension has been installed.</summary>
-<img src="https://user-images.githubusercontent.com/76772655/105855047-4dfabd80-5ff0-11eb-8570-1e0aeb7dd44c.png" width="600"></details>
+<img src="https://user-images.githubusercontent.com/76772655/105855047-4dfabd80-5ff0-11eb-8570-1e0aeb7dd44c.png" width="600"></details></li>
 
 After installation you can setup configurations in Store -> Configuration -> Payment Methods
 #### Using app/code
