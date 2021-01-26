@@ -93,6 +93,7 @@ For Magento 1 (1.7 - 1.9)
 
 <br>
 ---
+
 ### ► About us
   Cardinity is a licensed payment institution, active in the European Union, registered on VISA Europe and MasterCard International associations to provide <b>e-commerce credit card processing services</b> for online merchants.<br>
   We operate not only as a <u>payment gateway</u> but also as an <u>acquiring Bank</u>. With over 10 years of experience in providing reliable online payment services, we continue to grow and improve as a perfect payment service solution for your businesses.<br>
