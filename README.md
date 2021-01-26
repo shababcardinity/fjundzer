@@ -36,10 +36,8 @@ Recommended to install via marketplace. You can click on each step for screensho
 <details><summary>3. Proceed to checkout, fill in the billing form (do not worry its free) and obtain the extension via Magento Marketplace Platform by clicking ".</summary>
  <img src="https://user-images.githubusercontent.com/76772655/105849767-8054ec80-5fe9-11eb-8ccd-6ab94adcfd83.png" width="800"> <br> <img src="https://user-images.githubusercontent.com/76772655/105850356-4a643800-5fea-11eb-8db0-56dfb21ffe45.png" width="800"></details>
 <details>
-<summary>
-4. Once the order is complete, click Install.</summary>
- <img src="https://user-images.githubusercontent.com/76772655/105850558-8eefd380-5fea-11eb-8fbd-48e3c482ea79.png" width="800">
- </details>
+<summary>4. Once the order is complete, click Install.</summary>
+ <img src="https://user-images.githubusercontent.com/76772655/105850558-8eefd380-5fea-11eb-8fbd-48e3c482ea79.png" width="800"></details>
 <details>
 <summary>5. Once you are redirected to "My Access Keys" page, copy private and public access keys.</summary>
  <img src="https://user-images.githubusercontent.com/76772655/105851009-29501700-5feb-11eb-958d-081b10120578.png" width="800"></details>
