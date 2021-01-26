@@ -54,7 +54,7 @@ Recommended to install via marketplace. You can click on each step for screensho
 <br>Step 3.<br><img src="https://user-images.githubusercontent.com/76772655/105854542-af6e5c80-5fef-11eb-91ec-be277f5147a9.png" width="600"></details>
  <details>
 <summary>10. If everything is done correctly, you should be prompted that Cardinity extension has been installed.</summary>
-<img src="https://user-images.githubusercontent.com/76772655/105855047-4dfabd80-5ff0-11eb-8570-1e0aeb7dd44c.png" width="600"></details><
+<img src="https://user-images.githubusercontent.com/76772655/105855047-4dfabd80-5ff0-11eb-8570-1e0aeb7dd44c.png" width="600"></details>
 
 After installation you can setup configurations in Store -> Configuration -> Payment Methods
 #### Using app/code
