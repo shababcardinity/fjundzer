@@ -68,6 +68,7 @@ add
 ```
     
 in magento composer.json and composer update
+
 <br>
 <br>
 ---
