@@ -18,7 +18,6 @@ Find the latest Cardinity Payment Module for Magento 2 here: https://github.com/
 • Cardinity account  
 • Magento Community Edition v2.0.0 or above  
 • PHP ≥ 7.2  
-
  
 <br>
 -----
