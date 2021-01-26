@@ -32,7 +32,7 @@ Recommended to install via marketplace. After install you can set configurations
  </details>
  <details>
 <summary>2. Select your store version and add extension to cart.</summary>
- <img src="https://user-images.githubusercontent.com/76772655/105849360-f147d480-5fe8-11eb-9b71-7d26bd82c432.png" width="500">
+ <img src="https://user-images.githubusercontent.com/76772655/105849360-f147d480-5fe8-11eb-9b71-7d26bd82c432.png" width="500"></details>
 <details><summary>3. Proceed to checkout, fill in the billing form (do not worry its free) and obtain the extension via Magento Marketplace Platform by clicking ".</summary>
  <img src="https://user-images.githubusercontent.com/76772655/105849767-8054ec80-5fe9-11eb-8ccd-6ab94adcfd83.png" width="500"> <img src="https://user-images.githubusercontent.com/76772655/105850356-4a643800-5fea-11eb-8db0-56dfb21ffe45.png" width="500"></details>
 <details>
