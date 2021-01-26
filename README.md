@@ -43,8 +43,23 @@ Recommended to install via marketplace. After install you can set configurations
 <details>
 <summary>5. Once you are redirected to "My Access Keys" page, copy private and public access keys.</summary>
  <img src="https://user-images.githubusercontent.com/76772655/105851009-29501700-5feb-11eb-958d-081b10120578.png" width="800"></details>
-6. Login to your store admin panel.
-
+<details>
+<summary>6. Next, login to your store admin panel. Go to "System" → "Web setup wizard", then choose "Component manager".</summary>
+<img src="https://user-images.githubusercontent.com/76772655/105851839-4a653780-5fec-11eb-85a4-f89b917a42a2.png" width="800"></details>
+<details>
+<summary>7. Click on Sign in and paste Public access and Private access keys.</summary>
+<img src="https://user-images.githubusercontent.com/76772655/105852370-0cb4de80-5fed-11eb-909a-5fd5948fb560.png" width="800"></details>
+ <details>
+<summary>8. After successfully putting in the keys, click "Sync". Then, click "Install" under "New purchases".</summary>
+<img src="https://user-images.githubusercontent.com/76772655/105852901-ba27f200-5fed-11eb-9b86-06722d956ed8.png" width="800"></details>
+ <details>
+<summary>9. Among new purchases, find Cardinity payment module and click install. Wait while readiness check is finished. Click next. During step 2, create a backup if needed (highly recommended) and click next again. Finally, click install on "step 3: Component install"</summary>
+<img src="https://user-images.githubusercontent.com/76772655/105853823-ca8c9c80-5fee-11eb-9991-1bcebea5e40e.png" width="800">
+<img src="https://user-images.githubusercontent.com/76772655/105854356-79c97380-5fef-11eb-9e8c-a1167e305314.png" width="800">
+<img src="https://user-images.githubusercontent.com/76772655/105854542-af6e5c80-5fef-11eb-91ec-be277f5147a9.png" width="800"></details>
+ <details>
+<summary>10. If everything is done correctly, you should be prompted</summary>
+<img src="https://user-images.githubusercontent.com/76772655/105855047-4dfabd80-5ff0-11eb-8570-1e0aeb7dd44c.png" width="800"></details>
 #### Using app/code
 Put this inside app/code/Cardinity/Payment
 
