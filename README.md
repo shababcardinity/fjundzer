@@ -68,7 +68,8 @@ add
 ```
     
 in magento composer.json and composer update
-
+<br>
+<br>
 ---
 ### ► Changelog 
 For Magento 2
@@ -81,7 +82,8 @@ For Magento 1 (1.7 - 1.9)
 | Date          | Changes                                             |Version     |
 | ------------- |-----------------------------------------------------|------------|
 | 2020.12.09    | Added payment by external hosted gateway            |magento-1.9 |
-
+<br>
+<br>
 ---
 
 ### ► About us
