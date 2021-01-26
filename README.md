@@ -55,8 +55,8 @@ Recommended to install via marketplace. You can click on each step for screensho
  <details>
 <summary>9. Among new purchases, find Cardinity payment module and click install. Wait while readiness check is finished. Click next. During step 2, create a backup if needed (highly recommended) and click next again. Finally, click install on "step 3: Component install"</summary>
 Step 1.<br><img src="https://user-images.githubusercontent.com/76772655/105853823-ca8c9c80-5fee-11eb-9991-1bcebea5e40e.png" width="800">
-Step 2.<br><img src="https://user-images.githubusercontent.com/76772655/105854356-79c97380-5fef-11eb-9e8c-a1167e305314.png" width="800">
-Step 3.<br><img src="https://user-images.githubusercontent.com/76772655/105854542-af6e5c80-5fef-11eb-91ec-be277f5147a9.png" width="800"></details>
+<br>Step 2.<img src="https://user-images.githubusercontent.com/76772655/105854356-79c97380-5fef-11eb-9e8c-a1167e305314.png" width="800">
+<br>Step 3.<img src="https://user-images.githubusercontent.com/76772655/105854542-af6e5c80-5fef-11eb-91ec-be277f5147a9.png" width="800"></details>
  <details>
 <summary>10. If everything is done correctly, you should be prompted</summary>
 <img src="https://user-images.githubusercontent.com/76772655/105855047-4dfabd80-5ff0-11eb-8570-1e0aeb7dd44c.png" width="800"></details>
