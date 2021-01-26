@@ -69,7 +69,7 @@ add
 in magento composer.json and composer update
 
 ---
-## ► Changelog 
+### ► Changelog 
 For Magento 2
 | Date          | Changes                                             |Version     |
 | ------------- |-----------------------------------------------------|------------|
@@ -80,7 +80,7 @@ For Magento 1 (1.7 - 1.9)
 | Date          | Changes                                             |Version     |
 | ------------- |-----------------------------------------------------|------------|
 | 2020.12.09    | Added payment by external hosted gateway            |magento-1.9 |
-## ► FAQ
+### ► FAQ
 <details shown>
 <summary>What do I do if integration fails?</summary>
      - Maybe, try again?
@@ -92,13 +92,13 @@ For Magento 1 (1.7 - 1.9)
 
 <br>
 
-## ► About us
+### ► About us
 Cardinity is a licensed payment institution, active in the European Union, registered on VISA Europe and MasterCard International associations to provide <b>e-commerce credit card processing services</b> for online merchants. 
 We operate not only as a <u>payment gateway</u> but also as an <u>acquiring Bank</u>. With over 10 years of experience in providing reliable online payment services, we continue to grow and improve as a perfect payment service solution for your businesses.
 Cardinity is certified as PCI-DSS level 1 payment service provider and always assures a secure environment for transactions.
 
 We assure a safe and cost-effective, all-in-one online payment solution for e-commerce businesses and sole proprietorships.
-### Our features
+#### Our features
 • Fast application and boarding procedure.   
 • Global payments - accept payments in major currencies with credit and debit cards from customers all around the world.   
 • Recurring billing for subscription or membership based sales.  
@@ -109,7 +109,7 @@ We assure a safe and cost-effective, all-in-one online payment solution for e-co
 • Simple and transparent pricing model. Only pay per transaction and receive all the features for free.
 ### Get started
 <a href="https://cardinity.com/sign-up">Click here</a> to sign-up and start accepting credit and debit card payments on your website or <a href="https://cardinity.com/company/contact-us">here</a> to contact us 
-### Keywords
+#### Keywords
 payment gateway, credit card payment, online payment, credit card processing, online payment gateway, cardinity for X.     
 
   
