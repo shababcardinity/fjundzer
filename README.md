@@ -28,36 +28,36 @@ Recommended to install via marketplace. You can click on each step for screensho
 #### Using marketplace
 <details>
 <summary>1. Go to Magento marketplace and search for "Cardinity payment gateway" or navigate directly to → https://marketplace.magento.com/cardinity-magento.html</summary>
- <img src="https://user-images.githubusercontent.com/76772655/105848170-45ea5000-5fe7-11eb-8d94-64450da5476c.png" width="800">
+ <img src="https://user-images.githubusercontent.com/76772655/105848170-45ea5000-5fe7-11eb-8d94-64450da5476c.png" width="600">
  </details>
  <details>
 <summary>2. Select your store version and click "Add to cart".</summary>
- <img src="https://user-images.githubusercontent.com/76772655/105849360-f147d480-5fe8-11eb-9b71-7d26bd82c432.png" width="800"></details>
+ <img src="https://user-images.githubusercontent.com/76772655/105849360-f147d480-5fe8-11eb-9b71-7d26bd82c432.png" width="600"></details>
 <details><summary>3. Proceed to checkout, fill in the billing form (do not worry its free) and obtain the extension via Magento Marketplace Platform by clicking ".</summary>
- <img src="https://user-images.githubusercontent.com/76772655/105849767-8054ec80-5fe9-11eb-8ccd-6ab94adcfd83.png" width="800"> <br> <img src="https://user-images.githubusercontent.com/76772655/105850356-4a643800-5fea-11eb-8db0-56dfb21ffe45.png" width="800"></details>
+ <img src="https://user-images.githubusercontent.com/76772655/105849767-8054ec80-5fe9-11eb-8ccd-6ab94adcfd83.png" width="600"> <br> <img src="https://user-images.githubusercontent.com/76772655/105850356-4a643800-5fea-11eb-8db0-56dfb21ffe45.png" width="600"></details>
 <details>
 <summary>4. Once the order is complete, click Install.</summary>
- <img src="https://user-images.githubusercontent.com/76772655/105850558-8eefd380-5fea-11eb-8fbd-48e3c482ea79.png" width="800"></details>
+ <img src="https://user-images.githubusercontent.com/76772655/105850558-8eefd380-5fea-11eb-8fbd-48e3c482ea79.png" width="600"></details>
 <details>
 <summary>5. Once you are redirected to "My Access Keys" page, copy private and public access keys.</summary>
- <img src="https://user-images.githubusercontent.com/76772655/105851009-29501700-5feb-11eb-958d-081b10120578.png" width="800"></details>
+ <img src="https://user-images.githubusercontent.com/76772655/105851009-29501700-5feb-11eb-958d-081b10120578.png" width="600"></details>
 <details>
 <summary>6. Next, login to your store admin panel. Go to "System" → "Web setup wizard", then choose "Component manager".</summary>
-<img src="https://user-images.githubusercontent.com/76772655/105851839-4a653780-5fec-11eb-85a4-f89b917a42a2.png" width="800"></details>
+<img src="https://user-images.githubusercontent.com/76772655/105851839-4a653780-5fec-11eb-85a4-f89b917a42a2.png" width="600"></details>
 <details>
 <summary>7. Click on Sign in and paste Public access and Private access keys.</summary>
-<img src="https://user-images.githubusercontent.com/76772655/105852370-0cb4de80-5fed-11eb-909a-5fd5948fb560.png" width="800"></details>
+<img src="https://user-images.githubusercontent.com/76772655/105852370-0cb4de80-5fed-11eb-909a-5fd5948fb560.png" width="600"></details>
  <details>
 <summary>8. After successfully putting in the keys, click "Sync". Then, click "Install" under "New purchases".</summary>
-<img src="https://user-images.githubusercontent.com/76772655/105852901-ba27f200-5fed-11eb-9b86-06722d956ed8.png" width="800"></details>
+<img src="https://user-images.githubusercontent.com/76772655/105852901-ba27f200-5fed-11eb-9b86-06722d956ed8.png" width="600"></details>
  <details>
 <summary>9. Among new purchases, find Cardinity payment module and click install. Wait while readiness check is finished. Click next. During step 2, create a backup if needed (highly recommended) and click next again. Finally, click install on "step 3: Component install".</summary>
-<br>Step 1.<br><img src="https://user-images.githubusercontent.com/76772655/105853823-ca8c9c80-5fee-11eb-9991-1bcebea5e40e.png" width="800">
-<br>Step 2.<br><img src="https://user-images.githubusercontent.com/76772655/105854356-79c97380-5fef-11eb-9e8c-a1167e305314.png" width="800">
-<br>Step 3.<br><img src="https://user-images.githubusercontent.com/76772655/105854542-af6e5c80-5fef-11eb-91ec-be277f5147a9.png" width="800"></details>
+<br>Step 1.<br><img src="https://user-images.githubusercontent.com/76772655/105853823-ca8c9c80-5fee-11eb-9991-1bcebea5e40e.png" width="600">
+<br>Step 2.<br><img src="https://user-images.githubusercontent.com/76772655/105854356-79c97380-5fef-11eb-9e8c-a1167e305314.png" width="600">
+<br>Step 3.<br><img src="https://user-images.githubusercontent.com/76772655/105854542-af6e5c80-5fef-11eb-91ec-be277f5147a9.png" width="600"></details>
  <details>
 <summary>10. If everything is done correctly, you should be prompted.</summary>
-<img src="https://user-images.githubusercontent.com/76772655/105855047-4dfabd80-5ff0-11eb-8570-1e0aeb7dd44c.png" width="800"></details>
+<img src="https://user-images.githubusercontent.com/76772655/105855047-4dfabd80-5ff0-11eb-8570-1e0aeb7dd44c.png" width="600"></details>
 
 After installation you can setup configurations in Store -> Configuration -> Payment Methods
 #### Using app/code
