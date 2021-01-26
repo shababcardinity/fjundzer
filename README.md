@@ -6,7 +6,6 @@ This module will enable Cardinity payments system in your Magento e-shop. If you
       [Using marketplace](#using-marketplace)   
       [Using app/code](#using-appcode)   
  [Changelog](#changelog)  
-  
  [<b>About us</b>](#-aboutus)     
 <a name="headers"/>  
 
