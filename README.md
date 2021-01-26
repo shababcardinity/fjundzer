@@ -84,6 +84,7 @@ For Magento 1 (1.7 - 1.9)
 
 <br>
 -----
+
 ### FAQ
 <details>
   <summary>Question1 →</summary>
