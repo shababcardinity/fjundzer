@@ -83,12 +83,15 @@ For Magento 1 (1.7 - 1.9)
 | 2020.12.09    | Added payment by external hosted gateway            |magento-1.9 |
 
 <br>
----
-
+-----
 ### FAQ
 <details>
-  <summary>Question1</summary>
+  <summary>Question1 →</summary>
   Answer1
+  </details>
+  <details>
+  <summary>Question2 →</summary>
+  Answer2
   </details>
   
 -----
