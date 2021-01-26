@@ -67,7 +67,9 @@ add
     *** 
 ```
 
+ 
 <br>
+-----
 
 ---
 ### Changelog 
@@ -96,6 +98,8 @@ For Magento 1 (1.7 - 1.9)
   Answer2
   </details>
   
+ 
+<br>
 -----
 
 ### ► About us
