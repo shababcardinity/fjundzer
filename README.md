@@ -60,13 +60,15 @@ Recommended to install via marketplace. You can click on each step for screensho
 
 After installation you can setup configurations in Store -> Configuration -> Payment Methods
 #### Using app/code
-Put this inside app/code/Cardinity/Payment in magento composer.json and composer update
+Put this inside app/code/Cardinity/Magento in magento composer.json and composer update
 
-add
+In magentos composer.json add requirement -
 ```
 "require": {
     "cardinity/cardinity-sdk-php": "~3.0",
-    *** 
+    ***
+
+do a composer update.
 ```
 
  
