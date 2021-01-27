@@ -59,6 +59,11 @@ Recommended to install via marketplace. You can click on each step for screensho
 <img src="https://user-images.githubusercontent.com/76772655/105855047-4dfabd80-5ff0-11eb-8570-1e0aeb7dd44c.png" width="600"></details>
 
 After installation you can setup configurations in Store -> Configuration -> Payment Methods
+#### Using composer
+Install via composer package manager. In the command line run
+```
+composer require cardinity/magento
+```
 #### Using app/code
 Put this inside app/code/Cardinity/Magento in magento composer.json and composer update
 
