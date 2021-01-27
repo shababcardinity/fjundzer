@@ -68,9 +68,9 @@ In magentos composer.json add requirement -
     "cardinity/cardinity-sdk-php": "~3.0",
     ***
 ```
-
 do a composer update.
  
+ 
 <br>
 -----
 
