@@ -70,10 +70,9 @@ In magentos composer.json add requirement -
 ```
 do a composer update.
 
- 
+ 
 <br>
 -----
-
 
 ### Changelog 
 For Magento 2
